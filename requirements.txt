@@ -7,3 +7,4 @@ seaborn
 pillow
 tqdm
 scikit-learn
+requests
